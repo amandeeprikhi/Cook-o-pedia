@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/cheesecake.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxhdpi/cheesecake.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/makhani.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxhdpi/makhani.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/lassi.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxhdpi/lassi.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/pastry.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxhdpi/pastry.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/rice.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxhdpi/rice.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/flatbread.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxhdpi/flatbread.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/soup.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxhdpi/soup.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/cooks.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxhdpi/cooks.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

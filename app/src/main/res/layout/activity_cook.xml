@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/pastry_view"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@mipmap/pastry"
+            android:layout_alignParentTop="true"
+            android:layout_centerVertical="true" />
+        <Button
+            android:textColor="#ffffff"
+            android:id="@+id/pastry_button"
+            android:background="#6fa34a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BASIC SHORTCRUST PASTRY"
+            android:layout_below="@+id/pastry_view" />
+        <ImageView
+            android:id="@+id/cheesecake_view"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="26dp"
+            android:src="@mipmap/cheesecake"
+            android:layout_below="@+id/pastry_button" />
+        <Button
+            android:textColor="#ffffff"
+            android:id="@+id/cheesecake_button"
+            android:background="#6fa34a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CHOCOLATE ICECREAM CHESSECAKE"
+            android:layout_below="@+id/cheesecake_view" />
+        <ImageView
+            android:id="@+id/flatbread_view"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="26dp"
+            android:src="@mipmap/flatbread"
+            android:layout_below="@+id/cheesecake_button" />
+        <Button
+            android:textColor="#ffffff"
+            android:id="@+id/flatbread_button"
+            android:background="#6fa34a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FLATBREAD"
+            android:layout_below="@+id/flatbread_view" />
+        <ImageView
+            android:id="@+id/makhani_view"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="26dp"
+            android:src="@mipmap/makhani"
+            android:layout_below="@+id/flatbread_button" />
+        <Button
+            android:textColor="#ffffff"
+            android:id="@+id/makhani_button"
+            android:background="#6fa34a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MAKHANI DAL"
+            android:layout_below="@+id/makhani_view" />
+        <ImageView
+            android:id="@+id/lassi_view"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="26dp"
+            android:src="@mipmap/lassi"
+            android:layout_below="@+id/makhani_button" />
+        <Button
+            android:textColor="#ffffff"
+            android:id="@+id/lassi_button"
+            android:background="#6fa34a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SPICED &amp; SWEET LASSIS"
+            android:layout_below="@+id/lassi_view" />
+        <ImageView
+            android:id="@+id/rice_view"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="26dp"
+            android:src="@mipmap/rice"
+            android:layout_below="@+id/lassi_button" />
+        <Button
+            android:textColor="#ffffff"
+            android:id="@+id/rice_button"
+            android:background="#6fa34a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SPICY INDIAN RICE"
+            android:layout_below="@+id/rice_view" />
+        <ImageView
+            android:id="@+id/soup_view"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="26dp"
+            android:src="@mipmap/soup"
+            android:layout_below="@+id/rice_button" />
+        <Button
+            android:textColor="#ffffff"
+            android:id="@+id/soup_button"
+            android:background="#6fa34a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TOMATO SOUP"
+            android:layout_below="@+id/soup_view" />
+    </RelativeLayout>
+</ScrollView>

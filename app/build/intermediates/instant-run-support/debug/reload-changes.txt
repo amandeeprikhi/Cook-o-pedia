@@ -1,0 +1,9 @@
+CHANGED,/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/aman/cook_o_pedia/Recipe$3$override.class
+CHANGED,/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/aman/cook_o_pedia/Recipe$6$override.class
+CHANGED,/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/aman/cook_o_pedia/Recipe$7$override.class
+CHANGED,/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/aman/cook_o_pedia/Recipe$2$override.class
+CHANGED,/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/aman/cook_o_pedia/Recipe$1$override.class
+CHANGED,/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/aman/cook_o_pedia/Recipe$5$override.class
+CHANGED,/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/aman/cook_o_pedia/Recipe$override.class
+CHANGED,/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/aman/cook_o_pedia/Recipe$4$override.class

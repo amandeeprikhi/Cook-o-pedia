@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="69dp"
+        android:src="@mipmap/cooks"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:textColor="#ffffff"
+        android:id="@+id/cook"
+        android:background="#6fa34a"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="LET'S COOK"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:textColor="#ffffff"
+        android:id="@+id/groceries"
+        android:background="#868985"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="GROCERIES"
+        android:layout_below="@+id/cook"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:textColor="#ffffff"
+        android:id="@+id/about"
+        android:background="#868985"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="ABOUT"
+        android:layout_below="@+id/groceries"
+        android:layout_alignLeft="@+id/groceries" />
+</RelativeLayout>

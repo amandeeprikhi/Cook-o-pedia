@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/soup.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxxhdpi/soup.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/rice.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxxhdpi/rice.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/makhani.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxxhdpi/makhani.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/pastry.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxxhdpi/pastry.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/cheesecake.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxxhdpi/cheesecake.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/flatbread.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxxhdpi/flatbread.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/cooks.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxxhdpi/cooks.png"
+    },
+    {
+        "merged": "/Users/AMAN/Downloads/Cook-o-pedia/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/lassi.png",
+        "source": "/Users/AMAN/Downloads/Cook-o-pedia/app/src/main/res/mipmap-xxxhdpi/lassi.png"
+    }
+]

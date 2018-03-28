@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/nutri_image"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@mipmap/soup"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:id="@+id/nutrient_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NUTRIENTS"
+        android:layout_below="@+id/nutri_image"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:textSize="20dp"
+        android:id="@+id/nutrient"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="kcal\nfat\nsaturates\ncarbs\nsugars\nfibre\nprotein\nsalt"
+        android:layout_below="@+id/nutrient_title"
+        android:layout_alignParentLeft="true" />
+    <TextView
+        android:textSize="20dp"
+        android:id="@+id/nutri_values"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123\n7g\n1g\n13g\n1g\n4g\n4g\n1.08g"
+        android:layout_below="@+id/nutrient_title"
+        android:layout_alignParentRight="true" />
+</RelativeLayout>
